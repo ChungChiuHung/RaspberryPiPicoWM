@@ -29,4 +29,5 @@ Default libcyw43: non-commercial use
 ### [Pinout](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html#pinout-and-design-files-2)
 ![image](https://github.com/ChungChiuHung/RaspberryPiPicoWM/assets/52248840/486cac1c-fb6f-4c7a-ae1b-ae290a20717b)
 
-
+### Getting Started
+- [C/C++](Notes_GettingStarted.md)
