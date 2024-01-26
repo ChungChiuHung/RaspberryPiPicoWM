@@ -31,3 +31,4 @@ Default libcyw43: non-commercial use
 
 ### Getting Started
 - [C/C++](Notes_GettingStarted.md)
+- [Prefer way: pico-setup-windows](https://github.com/raspberrypi/pico-setup-windows)
