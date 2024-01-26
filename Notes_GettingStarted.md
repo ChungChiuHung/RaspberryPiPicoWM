@@ -3,3 +3,19 @@
 ## Ref:
 - [robotdad/picontoes: Pi Pico projects in VS Code from WSL](https://github.com/robotdad/piconotes)
 
+## The problem you might get
+- [SDK location was not specified.](https://forums.raspberrypi.com/viewtopic.php?t=332016)
+
+## Install usbipd-win (PowerShell)
+- [usbipd-win](https://github.com/dorssel/usbipd-win)
+```
+winget install usbipd
+```
+
+## Share a device, allowing it to be attaced to WSL2
+- [WSL support](https://github.com/dorssel/usbipd-win/wiki/WSL-support)
+```
+usbipd --help
+usbipd list
+usbipd bind --busid=<BUSID>
+```
