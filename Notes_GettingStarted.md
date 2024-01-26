@@ -2,7 +2,18 @@
 
 ## Ref:
 - [robotdad/picontoes: Pi Pico projects in VS Code from WSL](https://github.com/robotdad/piconotes)
-
+- Get the SDK
+```
+git clone -b master --recursive https://github.com/raspberrypi/pico-sdk.git
+```
+- Get the Samples
+```
+git clone -b master https://github.com/raspberrypi/pico-examples.git
+```
+- Install tools
+```
+sudo apt install cmake gcc-arm-none-eabi libnewlib-arm-none-eabi build-essential
+```
 ## The problem you might get
 - [SDK location was not specified.](https://forums.raspberrypi.com/viewtopic.php?t=332016)
 
