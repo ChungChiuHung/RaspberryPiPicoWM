@@ -32,7 +32,7 @@ Default libcyw43: non-commercial use
 ### Getting Started
 - [C/C++](Notes_GettingStarted.md)
 - [Prefer way: pico-setup-windows](https://github.com/raspberrypi/pico-setup-windows)
--［Dev with VScode](https://randomnerdtutorials.com/raspberry-pi-pico-vs-code-micropython/)
+-［Dev with VSCode](https://randomnerdtutorials.com/raspberry-pi-pico-vs-code-micropython)
 
 ### [Rest Pico](https://electrocredible.com/how-to-reset-raspberry-pi-pico-w/)
 - Soft reset Pico: **RUN** pin to **GND**
